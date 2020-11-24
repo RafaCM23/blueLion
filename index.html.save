@@ -41,13 +41,13 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger"
-                            href="#portfolio">PROYECTOS</a>
+                            href="#portfolio">PROJECTS</a>
                     </li>
                     <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger"
-                            href="#about">SOBRE MI</a>
+                            href="#about">ABOUT</a>
                     </li>
                     <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger"
-                            href="#contact">CONTACTO</a>
+                            href="#contact">CONTACT</a>
                     </li>
                 </ul>
             </div>
@@ -57,22 +57,25 @@
         <div class="container d-flex align-items-center flex-column">
             <!-- Masthead Avatar Image--><img class="masthead-avatar mb-5" src="assets/img/computer.png" alt="">
             <!-- Masthead Heading-->
-            <h1 class="masthead-heading mb-0">Rafael Cuberos</h1>
-            <!-- Icon Divider-->
+            <h1 class="masthead-heading mb-0">Rafael Cuberos</h1>            <!-- Icon Divider-->
             <div class="divider-custom divider-light">
                 <div class="divider-custom-line"></div>
                 <div class="divider-custom-icon"><i class="fas fa-id-badge"></i></div>
                 <div class="divider-custom-line"></div>
             </div>
             <!-- Masthead Subheading-->
+<<<<<<< HEAD
+            <p class="pre-wrap masthead-subheading font-weight-light mb-0">Estudiante en IES Jacarandá</p>
+=======
             <p class="pre-wrap masthead-subheading font-weight-light mb-0">Estudiante DAW en IES Jacarandá</p>
+>>>>>>> 116f0c43617947ee92eb004964946a2ee9f61745
         </div>
     </header>
     <section class="page-section portfolio" id="portfolio">
         <div class="container">
             <!-- Portfolio Section Heading-->
             <div class="text-center">
-                <h2 class="page-section-heading text-secondary mb-0 d-inline-block">PROYECTOS</h2>
+                <h2 class="page-section-heading text-secondary mb-0 d-inline-block">PROJECTS</h2>
             </div>
             <!-- Icon Divider-->
             <div class="divider-custom">
@@ -117,7 +120,7 @@
                         <a target="_blank" href="https://github.com/navendu-pottekkat/awesome-readme"><img class="card-img-top" src="./assets/img/proj_12.jpg" alt=""></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a target="_blank" href="https://github.com/navendu-pottekkat/awesome-readme">Prueba de fallo</a>
+                                <a target="_blank" href="https://github.com/navendu-pottekkat/awesome-readme">Awesome README</a>
                             </h4>
                             <p class="card-text">
                                 <span class="badge badge-danger">Blog</span>
